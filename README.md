@@ -1,1 +1,1 @@
-# winery-classification-bivariate
+# Winery classification with the bivariate Gaussian
